@@ -1,4 +1,4 @@
-module github.com/stinawest/del2
+module github.com/stinawest/Del2
 
 go 1.17
 

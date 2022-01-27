@@ -1,4 +1,4 @@
-module quote/test
+module github.com/stinawest/del2
 
 go 1.17
 
